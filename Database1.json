@@ -1,6 +1,8 @@
 {
 "menu1":[
-  
+"uno":{"url":"#","tit":"Artículos","cont":""},
+"dos":{"url":"#","tit":"Noticias","cont":""},
+"tres":{"url":"#","tit":"Blogs","cont":""}
 ],
 "menu2":[
  "uno":{"url":"#","tit":"Sobre Contenido","cont":""},
